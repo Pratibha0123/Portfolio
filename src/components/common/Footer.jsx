@@ -1,4 +1,3 @@
-import React from "react"
 import { social } from "../data/dummydata"
 
 const Footer = () => {

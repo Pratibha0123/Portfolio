@@ -1,5 +1,5 @@
 import { Menu } from "@mui/icons-material"
-import React, { useState } from "react"
+import  { useState } from "react"
 import { Link } from "react-router-dom"
 import { navlink } from "../data/dummydata"
 // import logo from "../data/images/logo.png"
